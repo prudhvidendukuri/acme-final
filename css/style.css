@@ -149,7 +149,7 @@ aside{
 aside input{
     width: 300px;
 }
-}
+
 .inputs{
     display: flex;
     flex-direction: column;
