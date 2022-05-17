@@ -144,8 +144,9 @@ footer {
     padding-left: 10px;
     padding-bottom: 1px;
     margin-bottom: -12px;
-    font-size: 12px;
+    font-size: 15px;
     font-family: 'Times New Roman', Times, serif;
+    width: 600px;
     }
     h4{
         padding-top: 10px;
