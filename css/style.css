@@ -137,3 +137,20 @@ footer {
     right: 0;
 
 }
+
+.website{
+    background-color: gray;
+    padding-right: 25px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    margin-bottom: -12px;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    h4{
+        padding-top: 10px;
+    }
+    #main{
+        margin-bottom: 10px;
+    }
+    
