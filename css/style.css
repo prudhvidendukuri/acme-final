@@ -137,6 +137,7 @@ footer {
     right: 0;
 
 }
+
 aside{
     background-color: #2c3e50;
     margin-top: 20px;
@@ -156,3 +157,21 @@ aside button{
 #main{
     margin-top: 10px;
 }
+
+.website{
+    background-color: gray;
+    padding-right: 25px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    margin-bottom: -12px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 740px;
+    }
+    h4{
+        padding-top: 10px;
+    }
+    #main{
+        margin-bottom: 10px;
+    }
+ 
